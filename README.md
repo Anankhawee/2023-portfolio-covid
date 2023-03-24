@@ -1,6 +1,8 @@
 # 2023-portfolio-covid
---Need to add description
+--Just a draft, Need to add more description
 --This work is done on BigQuery
+
+
 SELECT *
 FROM `myportfolio-covid19.coviddeaths.coviddeaths`
 WHERE continent is not null
